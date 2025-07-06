@@ -10,4 +10,11 @@ public class Day1 {
 		System.out.println("Hello");
 		
 	}
+	
+	@Test
+	public void Demo2() {
+		
+		System.out.println("Bye");
+	
+	}
 }
